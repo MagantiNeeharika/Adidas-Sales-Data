@@ -8,7 +8,6 @@ This dataset has Adidas Sales Data across different states and regions of the Un
 
 ## Links to Files
 - Data Source       : [Kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
-- Tableau Dashboard : [Tableau](https://public.tableau.com/app/profile/neeharika.maganti/vizzes)
-- Presentation      : [Google Slides](https://docs.google.com/presentation/d/1zE-OfPJduQp4JYRpCXza06n8BMrx9EYJidU8VnBdA_Q/edit?usp=sharing)
+- Tableau Dashboard : [Tableau](https://public.tableau.com/app/profile/neeharika.maganti/viz/SalesDataDashboard_17090095288840/Dashboard1)
 
 ## Recommendations & Marketing Strategies
